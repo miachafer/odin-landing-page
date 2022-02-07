@@ -1,3 +1,4 @@
+/* Here is the style for the header */
 body {
     margin: 0;
     font-family: 'Roboto', sans-serif;
@@ -23,3 +24,52 @@ body {
 .link {
     padding: 5px 10px 0px 10px;
 }
+
+/* Here starts blue section */
+
+.blue-section {
+    display: flex;
+    padding: 45px;
+    justify-content: center;
+    align-items: center;
+    background-color: #1F2937;
+}
+
+.hero-title {
+    font-size: 48px;
+    color: #F9FAF8;
+    font-weight: bolder;
+    margin-bottom: 10px;
+}
+
+.hero-subtext {
+    color:#F9FAF8;
+}
+
+.hero-section {
+    flex: 1;
+    padding: 25px;
+    margin: 50px 25px 50px 50px;
+}
+
+.image {
+    background-color: grey;
+    color: white;
+    padding: 80px 50px 80px 50px;
+    flex: 1;
+    margin: 50px 85px 50px 50px;
+    text-align: center;
+}
+
+.button-signup {
+    color:#F9FAF8;
+    font-weight: bolder;
+    padding: 10px;
+    background-color: #3882F6;
+    width: 100px;
+    text-align: center;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+
+/* Here starts the white section */
