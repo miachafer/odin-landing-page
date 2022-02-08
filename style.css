@@ -110,3 +110,24 @@ body {
     margin-top: 10px;
     text-align: center;
 }
+
+/* Here starts the grey section */
+
+.grey-section {
+    background-color: #E5E7EB;
+    padding: 130px 280px;
+}
+
+.quote {
+    color: #1F2937;
+    font-size: 36px;
+    font-style: italic;
+}
+
+.author {
+    color: #1F2937;
+    font-size: 24px;
+    font-weight: bold;
+    padding-top: 10px;
+    text-align: right;
+}
