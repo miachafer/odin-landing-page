@@ -131,3 +131,29 @@ body {
     padding-top: 10px;
     text-align: right;
 }
+
+/* Here start the call to action section */
+
+.cta-box {
+    margin: 90px 180px;
+    background-color: #3882F6;
+    padding: 50px 150px;
+    border-radius: 10px;
+    color: #F9FAF8;
+    display: flex;
+    justify-content: space-between;
+}
+
+.main-text {
+    font-size: 24px;
+    font-weight: 600;
+}
+
+.second-button-signup {
+    border-style: solid;
+    border-color: #F9FAF8;
+    border-radius: 10px;
+    padding: 10px;
+    width: 100px;
+    text-align: center;
+}
