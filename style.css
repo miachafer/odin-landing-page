@@ -157,3 +157,12 @@ body {
     width: 100px;
     text-align: center;
 }
+
+/* Footer */
+
+.footer {
+    background-color: #1F2937;
+    color: #F9FAF8;
+    text-align: center;
+    padding: 35px;
+}
